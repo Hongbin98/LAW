@@ -172,11 +172,11 @@ threadpoolctl==3.1.0
 tifffile==2023.3.15
 tinycss2==1.2.1
 tomli==2.0.1
-torch==1.8.0
-torch-scatter @ file:///usr/share/miniconda/envs/test/conda-bld/pytorch-scatter_1631018401613/work
-torchaudio==0.8.0a0+a751e1d
--e git+ssh://git@github.com/Abyssaledge/TorchEx.git@32eabf726169c2c4437428425a6d27400f8efc3a#egg=torchex
-torchvision==0.9.0
+# torch==1.8.0
+# torch-scatter @ file:///usr/share/miniconda/envs/test/conda-bld/pytorch-scatter_1631018401613/work
+# torchaudio==0.8.0a0+a751e1d
+# -e git+ssh://git@github.com/Abyssaledge/TorchEx.git@32eabf726169c2c4437428425a6d27400f8efc3a#egg=torchex
+# torchvision==0.9.0
 tornado==6.2
 tqdm==4.65.0
 traitlets==5.9.0
